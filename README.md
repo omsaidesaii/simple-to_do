@@ -60,7 +60,7 @@ npm run dev
 
 ## 📌 LIVE DEMO
 
-Check it out here: [https://simple-to-do.vercel.app](simple-to-do-mu.vercel.app) <!-- Replace with your actual deployment link -->
+Check it out here: [[https://simple-to-do.vercel.app](https://simple-to-do-mu.vercel.app/)] <!-- Replace with your actual deployment link -->
 
 ---
 
